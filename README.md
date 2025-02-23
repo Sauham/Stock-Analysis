@@ -72,15 +72,6 @@ python stock_data_analysis.py
 4. **Processed Dataset**:
    - The final dataset after preprocessing, displayed in the console.
 
-## Example Outputs
-### Correlation Heatmap
-![Correlation Heatmap](https://via.placeholder.com/600x400.png?text=Correlation+Heatmap)
-
-### Trend Plot
-![Trend Plot](https://via.placeholder.com/600x400.png?text=Trend+Plot)
-
-### Clustering Scatter Plot
-![Clustering Scatter Plot](https://via.placeholder.com/600x400.png?text=Clustering+Scatter+Plot)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
